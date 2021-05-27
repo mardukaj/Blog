@@ -8,3 +8,5 @@
 out
 gen
 package.json
+node_modules
+.env
