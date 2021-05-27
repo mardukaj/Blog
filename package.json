@@ -1,0 +1,29 @@
+{
+  "name": "mean-ang2",
+  "version": "1.0.0",
+  "description": "MEAN Stack with Angular",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mardukaj/Blog.git"
+  },
+  "keywords": [
+    "MEAN",
+    "Stack",
+    "Angular",
+    "App"
+  ],
+  "author": "Marko Bukovac",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mardukaj/Blog/issues"
+  },
+  "homepage": "https://github.com/mardukaj/Blog#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.12.10"
+  }
+}
